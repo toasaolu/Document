@@ -6,8 +6,9 @@ body {
 }
 @media (min-width: 768px) {
     body {
-        background-color:whitesmoke;
+        background-color:lightcyan;
     }
+}
 #navbar {
     position: fixed;
     min-width: 290px;

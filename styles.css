@@ -4,6 +4,10 @@ body {
     font-family: 'Open Sans', Arial, sans-serif;
     line-height: 1.5;
 }
+@media (min-width: 768px) {
+    body {
+        background-color:whitesmoke;
+    }
 #navbar {
     position: fixed;
     min-width: 290px;
